@@ -10,7 +10,8 @@ This repository contains resources for various data science courses, including:
 
 - Data Mining
 - Machine Learning and Artificial Intelligence
-- Prompt Engineering and Generative AI
+- Prompt Engineering and Applications of Generative AI
+- Generative AI · Foundations and Applications
 - Computer Vision and Natural Language Processing
 - Data Structures and Algorithms
 
